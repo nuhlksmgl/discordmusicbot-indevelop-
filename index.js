@@ -8,7 +8,7 @@ const youtubeSearch = require("youtube-search")
 
 const opts = (youtubeSearch.YoutubeSearchOptions) = {
     maxResults: 5,
-    key: "AIzaSyDiqiXyabQd-zI9tPZrdBca78GCxq4uIUU"
+    key: "xxxx"
 }
 
 const servers = {}
@@ -84,4 +84,4 @@ client.on("message", (message) => {
 
 })
 
-client.login("ODM1NTczMTkxNzY1MjYyMzY2.YIRaLQ.TllqPtjf97bZw0p4qt-VCShmer4")
+client.login("xxxx")
